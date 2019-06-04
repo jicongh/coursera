@@ -1,0 +1,14 @@
+2019/6/7测试有效：
+一：
+向c/Windows/System32/drivers/etc/hosts中加入以下命令：
+52.84.246.90    d3c33hcgiwev3.cloudfront.net
+52.84.246.252    d3c33hcgiwev3.cloudfront.net
+52.84.246.144    d3c33hcgiwev3.cloudfront.net
+52.84.246.72    d3c33hcgiwev3.cloudfront.net
+52.84.246.106    d3c33hcgiwev3.cloudfront.net
+52.84.246.135    d3c33hcgiwev3.cloudfront.net
+52.84.246.114    d3c33hcgiwev3.cloudfront.net
+52.84.246.90    d3c33hcgiwev3.cloudfront.net
+52.84.246.227    d3c33hcgiwev3.cloudfront.net
+二：
+打开cmd（开始键+R），输入ipconfig/flushdns，刷新 DNS 解析缓存。
